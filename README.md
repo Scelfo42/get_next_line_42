@@ -28,5 +28,5 @@ The fd will be used as a parameter for the function get_next_line, it could eith
 </ol>
 <h2>Info</h2>
 For more information about this project, please read the <a href="https://github.com/Scelfo42/get_next_line_42/blob/main/get_next_line_subject.pdf">subject</a>.
-<h2>Licence</h2>
+<h2>License</h2>
 See <a href="https://github.com/Scelfo42/get_next_line_42/blob/main/LICENSE">License</a>.
